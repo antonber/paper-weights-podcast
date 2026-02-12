@@ -10,8 +10,19 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
-      <title>Paper Weights — February 12, 2026 — AI Research Briefing</title>
-      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <title>Paper Weights — February 12, 2026 — Data Repetition Beats Data Scaling</title>
+      <description>Deep Dives:
+• Data Repetition Beats Data Scaling
+• Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away.
+
+Quick Hits:
+• Can Large Language Models Make Everyone Happy?
+• On the Robustness of Knowledge Editing for Detoxification
+• The Landscape of Prompt Injection Threats
+• RePO: Bridging On-Policy and Off-Policy Learning
+• Weight Decay Improves Language Model Plasticity
+• Why Does RL Generalize Better Than SFT?
+• MoEEdit: Routing-Stable Knowledge Editing for MoE LLMs</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</guid>
       <pubDate>Thu, 12 Feb 2026 09:00:00 -0600</pubDate>
@@ -19,8 +30,15 @@
       <ns0:duration>00:13:35</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 11, 2026 — AI Research Briefing</title>
-      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <title>Paper Weights — February 11, 2026 — The Geometry of Thinking</title>
+      <description>In this episode:
+
+• The Geometry of Thinking
+• Reading the Model's Mind Before It Speaks
+• The Safety Trilemma
+• Finding the Point of No Return
+• The Token Efficiency Problem
+• We Finally Know Why Reasoning Works</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</guid>
       <pubDate>Wed, 11 Feb 2026 09:00:00 -0600</pubDate>
@@ -28,30 +46,21 @@
       <ns0:duration>00:12:36</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 10, 2026 — iGRPO</title>
-      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <title>Paper Weights — February 10, 2026 — iGRPO — Self-Feedback-Driven LLM Reasoning</title>
+      <description>In this episode:
+
+• iGRPO — Self-Feedback-Driven LLM Reasoning
+• Next Concept Prediction — Beyond Token-Level Thinking
+• CoRefine — Confidence-Guided Self-Refinement
+• DirMoE — Dirichlet-Routed Mixture of Experts
+• InternAgent — The Robot Scientist
+• Misaligned Actions in Computer-Use Agents
+• Goal-Directedness in Language Model Agents</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</guid>
       <pubDate>Tue, 10 Feb 2026 09:00:00 -0600</pubDate>
       <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3" length="13906181" type="audio/mpeg"/>
       <ns0:duration>00:15:01</ns0:duration>
-    </item>
-    <item>
-      <title>Paper Weights — February 09, 2026 — InftyThink+ (Reasoning Efficiency)</title>
-      <description>In this episode:
-
-• InftyThink+ (Reasoning Efficiency)
-• Generative Meta-Model of LLM Activations (Interpretability)
-• DAWN (Diffusion LLM Speedup)
-• Agentic Overconfidence
-• Endogenous Steering Resistance
-• Multi-Objective Alignment Interference
-• Halluverse Multilingual Hallucination Benchmark</description>
-      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3</link>
-      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3</guid>
-      <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
-      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3" length="8981381" type="audio/mpeg"/>
-      <ns0:duration>00:12:14</ns0:duration>
     </item>
     <item>
       <title>Paper Weights — February 09, 2026 — InftyThink+ (Reasoning Efficiency)</title>
