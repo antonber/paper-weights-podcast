@@ -12,8 +12,8 @@
     <item>
       <title>Paper Weights — February 12, 2026 — Data Repetition Beats Data Scaling</title>
       <description>Deep Dives:
-• Data Repetition Beats Data Scaling
-• Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away.
+• Data Repetition Beats Data Scaling — http://arxiv.org/abs/2602.07839v1
+• Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away. — http://arxiv.org/abs/2602.07831v1
 
 Quick Hits:
 • Can Large Language Models Make Everyone Happy?
@@ -31,14 +31,16 @@ Quick Hits:
     </item>
     <item>
       <title>Paper Weights — February 11, 2026 — The Geometry of Thinking</title>
-      <description>In this episode:
-
+      <description>Deep Dives:
 • The Geometry of Thinking
 • Reading the Model's Mind Before It Speaks
 • The Safety Trilemma
 • Finding the Point of No Return
 • The Token Efficiency Problem
-• We Finally Know Why Reasoning Works</description>
+• We Finally Know Why Reasoning Works
+
+Quick Hits:
+• Knowledge Integration Decay — https://arxiv.org/abs/2602.09517</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</guid>
       <pubDate>Wed, 11 Feb 2026 09:00:00 -0600</pubDate>
@@ -49,13 +51,13 @@ Quick Hits:
       <title>Paper Weights — February 10, 2026 — iGRPO — Self-Feedback-Driven LLM Reasoning</title>
       <description>In this episode:
 
-• iGRPO — Self-Feedback-Driven LLM Reasoning
-• Next Concept Prediction — Beyond Token-Level Thinking
-• CoRefine — Confidence-Guided Self-Refinement
-• DirMoE — Dirichlet-Routed Mixture of Experts
+• iGRPO — Self-Feedback-Driven LLM Reasoning — http://arxiv.org/abs/2602.09000v1
+• Next Concept Prediction — Beyond Token-Level Thinking — http://arxiv.org/abs/2602.08984v1
+• CoRefine — Confidence-Guided Self-Refinement — http://arxiv.org/abs/2602.08948v1
+• DirMoE — Dirichlet-Routed Mixture of Experts — http://arxiv.org/abs/2602.09001v1
 • InternAgent — The Robot Scientist
-• Misaligned Actions in Computer-Use Agents
-• Goal-Directedness in Language Model Agents</description>
+• Misaligned Actions in Computer-Use Agents — http://arxiv.org/abs/2602.08995v1
+• Goal-Directedness in Language Model Agents — http://arxiv.org/abs/2602.08964v1</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</guid>
       <pubDate>Tue, 10 Feb 2026 09:00:00 -0600</pubDate>
@@ -67,12 +69,12 @@ Quick Hits:
       <description>In this episode:
 
 • InftyThink+ (Reasoning Efficiency)
-• Generative Meta-Model of LLM Activations (Interpretability)
+• Generative Meta-Model of LLM Activations (Interpretability) — https://arxiv.org/abs/2602.06964
 • DAWN (Diffusion LLM Speedup)
-• Agentic Overconfidence
-• Endogenous Steering Resistance
-• Multi-Objective Alignment Interference
-• Halluverse Multilingual Hallucination Benchmark</description>
+• Agentic Overconfidence — https://arxiv.org/abs/2602.06948
+• Endogenous Steering Resistance — https://arxiv.org/abs/2602.06941
+• Multi-Objective Alignment Interference — https://arxiv.org/abs/2602.06869
+• Halluverse Multilingual Hallucination Benchmark — https://arxiv.org/abs/2602.06920</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</guid>
       <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
