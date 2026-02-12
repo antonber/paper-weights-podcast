@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Paper Weights: Daily AI Research Briefing</title>
+    <description>Every morning, two hosts break down the AI papers that actually matter — one explains the science, one asks where the money is. Hundreds of papers filtered down to the dozen or so that could become products, disrupt markets, or change how you build. 15 minutes. No filler.</description>
+    <link>https://github.com/antonber/paper-weights-podcast</link>
+    <language>en</language>
+    <ns0:author>Paper Weights</ns0:author>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:category text="Technology"/>
+    <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
+    <item>
+      <title>Paper Weights — February 12, 2026 — AI Research Briefing</title>
+      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</guid>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3" length="12560905" type="audio/mpeg"/>
+      <ns0:duration>00:13:35</ns0:duration>
+    </item>
+    <item>
+      <title>Paper Weights — February 11, 2026 — AI Research Briefing</title>
+      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</guid>
+      <pubDate>Wed, 11 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3" length="11426453" type="audio/mpeg"/>
+      <ns0:duration>00:12:36</ns0:duration>
+    </item>
+    <item>
+      <title>Paper Weights — February 10, 2026 — iGRPO</title>
+      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</guid>
+      <pubDate>Tue, 10 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3" length="13906181" type="audio/mpeg"/>
+      <ns0:duration>00:15:01</ns0:duration>
+    </item>
+    <item>
+      <title>Paper Weights — February 09, 2026 — InftyThink+ (Reasoning Efficiency)</title>
+      <description>In this episode:
+
+• InftyThink+ (Reasoning Efficiency)
+• Generative Meta-Model of LLM Activations (Interpretability)
+• DAWN (Diffusion LLM Speedup)
+• Agentic Overconfidence
+• Endogenous Steering Resistance
+• Multi-Objective Alignment Interference
+• Halluverse Multilingual Hallucination Benchmark</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3</guid>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast.mp3" length="8981381" type="audio/mpeg"/>
+      <ns0:duration>00:12:14</ns0:duration>
+    </item>
+    <item>
+      <title>Paper Weights — February 09, 2026 — InftyThink+ (Reasoning Efficiency)</title>
+      <description>In this episode:
+
+• InftyThink+ (Reasoning Efficiency)
+• Generative Meta-Model of LLM Activations (Interpretability)
+• DAWN (Diffusion LLM Speedup)
+• Agentic Overconfidence
+• Endogenous Steering Resistance
+• Multi-Objective Alignment Interference
+• Halluverse Multilingual Hallucination Benchmark</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</guid>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3" length="10234614" type="audio/mpeg"/>
+      <ns0:duration>00:12:56</ns0:duration>
+    </item>
+  </channel>
+</rss>
