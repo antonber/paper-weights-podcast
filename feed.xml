@@ -10,6 +10,15 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>Paper Weights — February 13, 2026 — AI Research Briefing</title>
+      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</guid>
+      <pubDate>Fri, 13 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3" length="13708463" type="audio/mpeg"/>
+      <ns0:duration>00:14:53</ns0:duration>
+    </item>
+    <item>
       <title>Paper Weights — February 12, 2026 — Data Repetition Beats Data Scaling</title>
       <description>Deep Dives:
 • Data Repetition Beats Data Scaling — http://arxiv.org/abs/2602.07839v1
