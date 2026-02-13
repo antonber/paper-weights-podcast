@@ -15,7 +15,7 @@ from datetime import datetime
 from pathlib import Path
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-from extract_timestamps import extract_timestamps
+from extract_timestamps import extract_timestamps, get_paper_timestamps
 
 REPO_URL = "https://github.com/antonber/paper-weights-podcast"
 COVER_ART_URL = f"{REPO_URL}/releases/download/assets/cover-art.png"
@@ -327,19 +327,36 @@ def build_episode_title(script_path, date_formatted, date_str=None):
 
 
 def build_episode_description(script_path, date_str, mp3_path=None):
-    """Build a rich episode description: engaging summary paragraph + paper list with arXiv links + timestamps."""
+    """Build a rich episode description: engaging summary paragraph + paper list with arXiv links + inline timestamps."""
     lead, deep_dives, quick_hits = extract_papers_from_script(script_path) if script_path else (None, [], [])
 
     # Load digest for arXiv links
     digest_papers = load_digest_papers(date_str)
 
+    # Load paper timestamps if available
+    paper_ts = {}
+    if script_path and mp3_path:
+        try:
+            paper_ts = get_paper_timestamps(mp3_path, script_path, date_str)
+        except Exception as e:
+            print(f"Warning: Could not extract timestamps for {date_str}: {e}", file=sys.stderr)
+
+    deep_dive_ts_list = paper_ts.get('__deep_dive_timestamps__', [])
+    quick_hits_ts = paper_ts.get('__quick_hits__')
+
     parts = []
 
-    def format_paper(name):
+    def format_paper(name, index=None, is_quick_hit=False, is_first_quick_hit=False):
+        ts = None
+        if is_first_quick_hit and quick_hits_ts:
+            ts = quick_hits_ts
+        elif not is_quick_hit and index is not None and index < len(deep_dive_ts_list):
+            ts = deep_dive_ts_list[index]
         url = match_paper_to_digest(name, digest_papers)
+        prefix = f"[{ts}] " if ts else ""
         if url:
-            return f"• {name} — {url}"
-        return f"• {name}"
+            return f"• {prefix}{name} — {url}"
+        return f"• {prefix}{name}"
 
     # Fallback to digest if script parsing fails
     if not deep_dives:
@@ -368,32 +385,20 @@ def build_episode_description(script_path, date_str, mp3_path=None):
 
     parts.append("")
 
-    # Paper listings with arXiv links
+    # Paper listings with arXiv links and inline timestamps
     if deep_dives:
         if quick_hits:
             parts.append("Deep Dives:")
-            for p in deep_dives:
-                parts.append(format_paper(p))
+            for i, p in enumerate(deep_dives):
+                parts.append(format_paper(p, index=i))
             parts.append("")
             parts.append("Quick Hits:")
-            for p in quick_hits:
-                parts.append(format_paper(p))
+            for i, p in enumerate(quick_hits):
+                parts.append(format_paper(p, is_quick_hit=True, is_first_quick_hit=(i == 0)))
         else:
             parts.append("Papers discussed:")
-            for p in deep_dives:
-                parts.append(format_paper(p))
-
-    # Add timestamps if we have both script and MP3
-    if script_path and mp3_path:
-        try:
-            timestamps = extract_timestamps(mp3_path, script_path, date_str)
-            if timestamps:
-                parts.append("")
-                parts.append("Timestamps:")
-                for ts in timestamps:
-                    parts.append(f"{ts['timestamp_str']} — {ts['title']}")
-        except Exception as e:
-            print(f"Warning: Could not extract timestamps for {date_str}: {e}", file=sys.stderr)
+            for i, p in enumerate(deep_dives):
+                parts.append(format_paper(p, index=i))
 
     return "\n".join(parts)
 

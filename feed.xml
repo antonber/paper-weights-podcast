@@ -14,16 +14,16 @@
       <description>Today's episode dives deep into Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs, along with Native Reasoning Models: Training Language Models to Reason on Unverifiable Data, MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
 
 Deep Dives:
-• Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs — https://arxiv.org/abs/2602.11729v1
-• Native Reasoning Models: Training Language Models to Reason on Unverifiable Data — https://arxiv.org/abs/2602.11549v1
-• MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling — https://arxiv.org/abs/2602.11761v1
-• Extending Puzzle for Mixture-of-Experts Reasoning Models (GPT-OSS Acceleration) — https://arxiv.org/abs/2602.11549v1
-• The Pensieve Paradigm: StateLM — Stateful Language Models Mastering Their Own Context — https://arxiv.org/abs/2602.11549v1
-• Stop Unnecessary Reflection: Adaptive Reflection and Length Coordinated Penalty for LRMs — https://arxiv.org/abs/2602.12113v1
-• DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels — https://arxiv.org/abs/2602.11549v1
+• [00:47] Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs — https://arxiv.org/abs/2602.11729v1
+• [01:50] Native Reasoning Models: Training Language Models to Reason on Unverifiable Data — https://arxiv.org/abs/2602.11549v1
+• [03:33] MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling — https://arxiv.org/abs/2602.11761v1
+• [05:00] Extending Puzzle for Mixture-of-Experts Reasoning Models (GPT-OSS Acceleration) — https://arxiv.org/abs/2602.11549v1
+• [06:35] The Pensieve Paradigm: StateLM — Stateful Language Models Mastering Their Own Context — https://arxiv.org/abs/2602.11549v1
+• [08:33] Stop Unnecessary Reflection: Adaptive Reflection and Length Coordinated Penalty for LRMs — https://arxiv.org/abs/2602.12113v1
+• [10:00] DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels — https://arxiv.org/abs/2602.11549v1
 
 Quick Hits:
-• ThinkRouter: Efficient Reasoning via Routing Between Latent and Discrete Spaces — https://arxiv.org/abs/2602.11683v1
+• [11:19] ThinkRouter: Efficient Reasoning via Routing Between Latent and Discrete Spaces — https://arxiv.org/abs/2602.11683v1
 • Think Longer to Explore Deeper: In-Context Exploration via Length-Incentivized RL — https://arxiv.org/abs/2602.11748v1
 • PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning — https://arxiv.org/abs/2602.11683v1
 • Composition-RL: Composing Verifiable Prompts for RL of LLMs — https://arxiv.org/abs/2602.12036v1
@@ -33,13 +33,7 @@ Quick Hits:
 • Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments — https://arxiv.org/abs/2602.11964v1
 • TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents — https://arxiv.org/abs/2602.11767v1
 • Deep Kernel Fusion for Transformers — https://arxiv.org/abs/2602.11808v1
-• PASCAL: Phase-Aware Scheduling for Serving Reasoning-based LLMs — https://arxiv.org/abs/2602.11530v1
-
-Timestamps:
-00:00 — Cold Open
-00:47 — Deep Dives
-11:19 — Quick Hits
-14:21 — Outro</description>
+• PASCAL: Phase-Aware Scheduling for Serving Reasoning-based LLMs — https://arxiv.org/abs/2602.11530v1</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</guid>
       <pubDate>Fri, 13 Feb 2026 09:00:00 -0600</pubDate>
@@ -51,23 +45,17 @@ Timestamps:
       <description>Today's episode dives deep into Data Repetition Beats Data Scaling, along with Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away.. Plus 7 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 9 papers, zero filler.
 
 Deep Dives:
-• Data Repetition Beats Data Scaling — http://arxiv.org/abs/2602.07839v1
-• Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away. — http://arxiv.org/abs/2602.07831v1
+• [00:42] Data Repetition Beats Data Scaling — http://arxiv.org/abs/2602.07839v1
+• [02:15] Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away. — http://arxiv.org/abs/2602.07831v1
 
 Quick Hits:
-• Can Large Language Models Make Everyone Happy?
+• [12:02] Can Large Language Models Make Everyone Happy?
 • On the Robustness of Knowledge Editing for Detoxification
 • The Landscape of Prompt Injection Threats
 • RePO: Bridging On-Policy and Off-Policy Learning
 • Weight Decay Improves Language Model Plasticity
 • Why Does RL Generalize Better Than SFT?
-• MoEEdit: Routing-Stable Knowledge Editing for MoE LLMs
-
-Timestamps:
-00:00 — Cold Open
-00:42 — Deep Dives
-12:02 — Quick Hits
-13:01 — Outro</description>
+• MoEEdit: Routing-Stable Knowledge Editing for MoE LLMs</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</guid>
       <pubDate>Thu, 12 Feb 2026 09:00:00 -0600</pubDate>
@@ -79,26 +67,15 @@ Timestamps:
       <description>Today's episode dives deep into The Geometry of Thinking, along with Reading the Model's Mind Before It Speaks, The Safety Trilemma. Plus 1 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
 Deep Dives:
-• The Geometry of Thinking
-• Reading the Model's Mind Before It Speaks
-• The Safety Trilemma
-• Finding the Point of No Return
-• The Token Efficiency Problem
-• We Finally Know Why Reasoning Works
+• [00:40] The Geometry of Thinking
+• [01:54] Reading the Model's Mind Before It Speaks
+• [03:26] The Safety Trilemma
+• [05:09] Finding the Point of No Return
+• [06:29] The Token Efficiency Problem
+• [08:47] We Finally Know Why Reasoning Works
 
 Quick Hits:
-• Knowledge Integration Decay — https://arxiv.org/abs/2602.09517
-
-Timestamps:
-00:00 — Cold Open
-00:40 — Deep Dive 1: The Geometry of Thinking
-01:54 — Deep Dive 2: Reading the Model's Mind Before It Speaks
-03:26 — Deep Dive 3: The Safety Trilemma
-05:09 — Deep Dive 4: Finding the Point of No Return
-06:29 — Deep Dive 5: The Token Efficiency Problem
-08:47 — Deep Dive 6 (Holy Shit Moment): We Finally Know Why Reasoning Works
-10:53 — Quick Hits
-11:51 — Outro</description>
+• [10:53] Knowledge Integration Decay — https://arxiv.org/abs/2602.09517</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</guid>
       <pubDate>Wed, 11 Feb 2026 09:00:00 -0600</pubDate>
@@ -110,25 +87,13 @@ Timestamps:
       <description>Today's episode dives deep into iGRPO — Self-Feedback-Driven LLM Reasoning, along with Next Concept Prediction — Beyond Token-Level Thinking, CoRefine — Confidence-Guided Self-Refinement. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
 Papers discussed:
-• iGRPO — Self-Feedback-Driven LLM Reasoning — http://arxiv.org/abs/2602.09000v1
-• Next Concept Prediction — Beyond Token-Level Thinking — http://arxiv.org/abs/2602.08984v1
-• CoRefine — Confidence-Guided Self-Refinement — http://arxiv.org/abs/2602.08948v1
-• DirMoE — Dirichlet-Routed Mixture of Experts — http://arxiv.org/abs/2602.09001v1
-• InternAgent — The Robot Scientist
-• Misaligned Actions in Computer-Use Agents — http://arxiv.org/abs/2602.08995v1
-• Goal-Directedness in Language Model Agents — http://arxiv.org/abs/2602.08964v1
-
-Timestamps:
-00:00 — Cold Open
-00:36 — Paper 1: iGRPO — Self-Feedback-Driven LLM Reasoning
-01:39 — Paper 2: Next Concept Prediction — Beyond Token-Level Thinking
-02:51 — Paper 3: CoRefine — Confidence-Guided Self-Refinement
-04:03 — Paper 4: DirMoE — Dirichlet-Routed Mixture of Experts
-05:15 — Paper 5: InternAgent — The Robot Scientist
-06:54 — Paper 6: Misaligned Actions in Computer-Use Agents
-08:24 — Paper 7: Goal-Directedness in Language Model Agents
-09:45 — Quick Hits
-13:49 — Outro</description>
+• [00:36] iGRPO — Self-Feedback-Driven LLM Reasoning — http://arxiv.org/abs/2602.09000v1
+• [01:39] Next Concept Prediction — Beyond Token-Level Thinking — http://arxiv.org/abs/2602.08984v1
+• [02:51] CoRefine — Confidence-Guided Self-Refinement — http://arxiv.org/abs/2602.08948v1
+• [04:03] DirMoE — Dirichlet-Routed Mixture of Experts — http://arxiv.org/abs/2602.09001v1
+• [05:15] InternAgent — The Robot Scientist
+• [06:54] Misaligned Actions in Computer-Use Agents — http://arxiv.org/abs/2602.08995v1
+• [08:24] Goal-Directedness in Language Model Agents — http://arxiv.org/abs/2602.08964v1</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</guid>
       <pubDate>Tue, 10 Feb 2026 09:00:00 -0600</pubDate>
@@ -140,16 +105,13 @@ Timestamps:
       <description>Today's episode dives deep into InftyThink+ (Reasoning Efficiency), along with Generative Meta-Model of LLM Activations (Interpretability), DAWN (Diffusion LLM Speedup). Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
 Papers discussed:
-• InftyThink+ (Reasoning Efficiency)
-• Generative Meta-Model of LLM Activations (Interpretability) — https://arxiv.org/abs/2602.06964
-• DAWN (Diffusion LLM Speedup)
-• Agentic Overconfidence — https://arxiv.org/abs/2602.06948
-• Endogenous Steering Resistance — https://arxiv.org/abs/2602.06941
-• Multi-Objective Alignment Interference — https://arxiv.org/abs/2602.06869
-• Halluverse Multilingual Hallucination Benchmark — https://arxiv.org/abs/2602.06920
-
-Timestamps:
-00:00 — "The Papers That Matter"</description>
+• [00:00] InftyThink+ (Reasoning Efficiency)
+• [00:43] Generative Meta-Model of LLM Activations (Interpretability) — https://arxiv.org/abs/2602.06964
+• [02:52] DAWN (Diffusion LLM Speedup)
+• [04:40] Agentic Overconfidence — https://arxiv.org/abs/2602.06948
+• [06:06] Endogenous Steering Resistance — https://arxiv.org/abs/2602.06941
+• [07:54] Multi-Objective Alignment Interference — https://arxiv.org/abs/2602.06869
+• [09:20] Halluverse Multilingual Hallucination Benchmark — https://arxiv.org/abs/2602.06920</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</guid>
       <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
