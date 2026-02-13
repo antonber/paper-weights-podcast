@@ -10,8 +10,30 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
-      <title>Paper Weights — February 13, 2026 — AI Research Briefing</title>
-      <description>Daily briefing on the latest AI research papers that matter.</description>
+      <title>Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of ...</title>
+      <description>Today's episode dives deep into Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs, along with Native Reasoning Models: Training Language Models to Reason on Unverifiable Data, MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
+
+Deep Dives:
+• Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs — https://arxiv.org/abs/2602.11729v1
+• Native Reasoning Models: Training Language Models to Reason on Unverifiable Data — https://arxiv.org/abs/2602.11549v1
+• MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling — https://arxiv.org/abs/2602.11761v1
+• Extending Puzzle for Mixture-of-Experts Reasoning Models (GPT-OSS Acceleration) — https://arxiv.org/abs/2602.11549v1
+• The Pensieve Paradigm: StateLM — Stateful Language Models Mastering Their Own Context — https://arxiv.org/abs/2602.11549v1
+• Stop Unnecessary Reflection: Adaptive Reflection and Length Coordinated Penalty for LRMs — https://arxiv.org/abs/2602.12113v1
+• DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels — https://arxiv.org/abs/2602.11549v1
+
+Quick Hits:
+• ThinkRouter: Efficient Reasoning via Routing Between Latent and Discrete Spaces — https://arxiv.org/abs/2602.11683v1
+• Think Longer to Explore Deeper: In-Context Exploration via Length-Incentivized RL — https://arxiv.org/abs/2602.11748v1
+• PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning — https://arxiv.org/abs/2602.11683v1
+• Composition-RL: Composing Verifiable Prompts for RL of LLMs — https://arxiv.org/abs/2602.12036v1
+• Capability-Oriented Training Induced Alignment Risk — https://arxiv.org/abs/2602.12124v1
+• DeepSight: An All-in-One LM Safety Toolkit — https://arxiv.org/abs/2602.12092v1
+• Detecting RLVR Training Data via Structural Convergence of Reasoning — https://arxiv.org/abs/2602.11549v1
+• Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments — https://arxiv.org/abs/2602.11964v1
+• TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents — https://arxiv.org/abs/2602.11767v1
+• Deep Kernel Fusion for Transformers — https://arxiv.org/abs/2602.11808v1
+• PASCAL: Phase-Aware Scheduling for Serving Reasoning-based LLMs — https://arxiv.org/abs/2602.11530v1</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</guid>
       <pubDate>Fri, 13 Feb 2026 09:00:00 -0600</pubDate>
@@ -19,8 +41,10 @@
       <ns0:duration>00:14:53</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 12, 2026 — Data Repetition Beats Data Scaling</title>
-      <description>Deep Dives:
+      <title>Data Repetition Beats Data Scaling</title>
+      <description>Today's episode dives deep into Data Repetition Beats Data Scaling, along with Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away.. Plus 7 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 9 papers, zero filler.
+
+Deep Dives:
 • Data Repetition Beats Data Scaling — http://arxiv.org/abs/2602.07839v1
 • Safety Recovery in Reasoning Models Is Only a Few Early Steering Steps Away. — http://arxiv.org/abs/2602.07831v1
 
@@ -39,8 +63,10 @@ Quick Hits:
       <ns0:duration>00:13:35</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 11, 2026 — The Geometry of Thinking</title>
-      <description>Deep Dives:
+      <title>The Geometry of Thinking</title>
+      <description>Today's episode dives deep into The Geometry of Thinking, along with Reading the Model's Mind Before It Speaks, The Safety Trilemma. Plus 1 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
+
+Deep Dives:
 • The Geometry of Thinking
 • Reading the Model's Mind Before It Speaks
 • The Safety Trilemma
@@ -57,9 +83,10 @@ Quick Hits:
       <ns0:duration>00:12:36</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 10, 2026 — iGRPO — Self-Feedback-Driven LLM Reasoning</title>
-      <description>In this episode:
+      <title>iGRPO — Self-Feedback-Driven LLM Reasoning</title>
+      <description>Today's episode dives deep into iGRPO — Self-Feedback-Driven LLM Reasoning, along with Next Concept Prediction — Beyond Token-Level Thinking, CoRefine — Confidence-Guided Self-Refinement. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
+Papers discussed:
 • iGRPO — Self-Feedback-Driven LLM Reasoning — http://arxiv.org/abs/2602.09000v1
 • Next Concept Prediction — Beyond Token-Level Thinking — http://arxiv.org/abs/2602.08984v1
 • CoRefine — Confidence-Guided Self-Refinement — http://arxiv.org/abs/2602.08948v1
@@ -74,9 +101,10 @@ Quick Hits:
       <ns0:duration>00:15:01</ns0:duration>
     </item>
     <item>
-      <title>Paper Weights — February 09, 2026 — InftyThink+ (Reasoning Efficiency)</title>
-      <description>In this episode:
+      <title>InftyThink+ (Reasoning Efficiency)</title>
+      <description>Today's episode dives deep into InftyThink+ (Reasoning Efficiency), along with Generative Meta-Model of LLM Activations (Interpretability), DAWN (Diffusion LLM Speedup). Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
+Papers discussed:
 • InftyThink+ (Reasoning Efficiency)
 • Generative Meta-Model of LLM Activations (Interpretability) — https://arxiv.org/abs/2602.06964
 • DAWN (Diffusion LLM Speedup)
