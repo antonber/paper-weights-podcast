@@ -1,0 +1,32 @@
+{
+  "spotify": {
+    "showId": "7wKNKAabIY3Wl55BApqSvM",
+    "dashboardUrl": "https://creators.spotify.com/pod/show/7wKNKAabIY3Wl55BApqSvM/home",
+    "newEpisodeUrl": "https://creators.spotify.com/pod/show/7wKNKAabIY3Wl55BApqSvM/episode/wizard",
+    "accountEmail": "antonber@gmail.com",
+    "episode1Url": "https://open.spotify.com/episode/4cgC44le7mEwdrUB0BXoVI"
+  },
+  "elevenlabs": {
+    "plan": "pro",
+    "monthlyChars": 500000,
+    "model": "eleven_v3",
+    "voices": {
+      "alex": {
+        "name": "Chris",
+        "id": "iP95p4xoKVk53GoZ742B",
+        "description": "Charming, Down-to-Earth"
+      },
+      "maya": {
+        "name": "Laura",
+        "id": "FGY2WhTYpPnrIDTdsKH5",
+        "description": "Enthusiast, Quirky Attitude"
+      }
+    }
+  },
+  "podcast": {
+    "name": "Paper Weights: Daily AI Research Briefing",
+    "schedule": "weekdays",
+    "targetLength": "30 minutes",
+    "coverArt": "branding/cover-art.png"
+  }
+}

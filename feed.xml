@@ -33,7 +33,13 @@ Quick Hits:
 • Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments — https://arxiv.org/abs/2602.11964v1
 • TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents — https://arxiv.org/abs/2602.11767v1
 • Deep Kernel Fusion for Transformers — https://arxiv.org/abs/2602.11808v1
-• PASCAL: Phase-Aware Scheduling for Serving Reasoning-based LLMs — https://arxiv.org/abs/2602.11530v1</description>
+• PASCAL: Phase-Aware Scheduling for Serving Reasoning-based LLMs — https://arxiv.org/abs/2602.11530v1
+
+Timestamps:
+00:00 — Cold Open
+00:47 — Deep Dives
+11:19 — Quick Hits
+14:21 — Outro</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-13/2026-02-13-podcast.mp3</guid>
       <pubDate>Fri, 13 Feb 2026 09:00:00 -0600</pubDate>
@@ -55,7 +61,13 @@ Quick Hits:
 • RePO: Bridging On-Policy and Off-Policy Learning
 • Weight Decay Improves Language Model Plasticity
 • Why Does RL Generalize Better Than SFT?
-• MoEEdit: Routing-Stable Knowledge Editing for MoE LLMs</description>
+• MoEEdit: Routing-Stable Knowledge Editing for MoE LLMs
+
+Timestamps:
+00:00 — Cold Open
+00:42 — Deep Dives
+12:02 — Quick Hits
+13:01 — Outro</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-12/2026-02-12-podcast.mp3</guid>
       <pubDate>Thu, 12 Feb 2026 09:00:00 -0600</pubDate>
@@ -75,7 +87,18 @@ Deep Dives:
 • We Finally Know Why Reasoning Works
 
 Quick Hits:
-• Knowledge Integration Decay — https://arxiv.org/abs/2602.09517</description>
+• Knowledge Integration Decay — https://arxiv.org/abs/2602.09517
+
+Timestamps:
+00:00 — Cold Open
+00:40 — Deep Dive 1: The Geometry of Thinking
+01:54 — Deep Dive 2: Reading the Model's Mind Before It Speaks
+03:26 — Deep Dive 3: The Safety Trilemma
+05:09 — Deep Dive 4: Finding the Point of No Return
+06:29 — Deep Dive 5: The Token Efficiency Problem
+08:47 — Deep Dive 6 (Holy Shit Moment): We Finally Know Why Reasoning Works
+10:53 — Quick Hits
+11:51 — Outro</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-11/2026-02-11-podcast-v2.mp3</guid>
       <pubDate>Wed, 11 Feb 2026 09:00:00 -0600</pubDate>
@@ -93,7 +116,19 @@ Papers discussed:
 • DirMoE — Dirichlet-Routed Mixture of Experts — http://arxiv.org/abs/2602.09001v1
 • InternAgent — The Robot Scientist
 • Misaligned Actions in Computer-Use Agents — http://arxiv.org/abs/2602.08995v1
-• Goal-Directedness in Language Model Agents — http://arxiv.org/abs/2602.08964v1</description>
+• Goal-Directedness in Language Model Agents — http://arxiv.org/abs/2602.08964v1
+
+Timestamps:
+00:00 — Cold Open
+00:36 — Paper 1: iGRPO — Self-Feedback-Driven LLM Reasoning
+01:39 — Paper 2: Next Concept Prediction — Beyond Token-Level Thinking
+02:51 — Paper 3: CoRefine — Confidence-Guided Self-Refinement
+04:03 — Paper 4: DirMoE — Dirichlet-Routed Mixture of Experts
+05:15 — Paper 5: InternAgent — The Robot Scientist
+06:54 — Paper 6: Misaligned Actions in Computer-Use Agents
+08:24 — Paper 7: Goal-Directedness in Language Model Agents
+09:45 — Quick Hits
+13:49 — Outro</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-10/2026-02-10-podcast.mp3</guid>
       <pubDate>Tue, 10 Feb 2026 09:00:00 -0600</pubDate>
@@ -111,7 +146,10 @@ Papers discussed:
 • Agentic Overconfidence — https://arxiv.org/abs/2602.06948
 • Endogenous Steering Resistance — https://arxiv.org/abs/2602.06941
 • Multi-Objective Alignment Interference — https://arxiv.org/abs/2602.06869
-• Halluverse Multilingual Hallucination Benchmark — https://arxiv.org/abs/2602.06920</description>
+• Halluverse Multilingual Hallucination Benchmark — https://arxiv.org/abs/2602.06920
+
+Timestamps:
+00:00 — "The Papers That Matter"</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-09/2026-02-09-podcast-v2.mp3</guid>
       <pubDate>Mon, 09 Feb 2026 09:00:00 -0600</pubDate>
