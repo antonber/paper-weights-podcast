@@ -197,7 +197,58 @@ def extract_papers_from_script(script_path):
                         quick_hits.append(q)
         return deep_dives[0], deep_dives, quick_hits
 
-    # --- Format 1c: ## Deep Dive N: Title ---
+    # --- Format 1c: ### N. Title (under ## Deep Dives) ---
+    numbered_header = re.compile(r'###\s*\d+\.\s*(.+)')
+    in_deep_dives = False
+    in_quick_hits = False
+    for line in lines:
+        stripped = line.strip()
+        if stripped.lower().startswith('## deep dive'):
+            in_deep_dives = True
+            in_quick_hits = False
+            continue
+        if stripped.lower().startswith('## quick hit'):
+            in_deep_dives = False
+            in_quick_hits = True
+            continue
+        if stripped.startswith('## ') and not stripped.lower().startswith('## deep') and not stripped.lower().startswith('## quick'):
+            if stripped.lower().startswith('## outro') or stripped.lower().startswith('## cold'):
+                in_deep_dives = False
+                in_quick_hits = False
+            continue
+        if in_deep_dives:
+            m = numbered_header.match(stripped)
+            if m:
+                title = m.group(1).strip()
+                if title not in deep_dives:
+                    deep_dives.append(title)
+
+    if deep_dives:
+        # Also extract quick hits from dialogue in ## Quick Hits section
+        in_quick = False
+        for line in lines:
+            stripped = line.strip()
+            if stripped.lower().startswith('## quick hit'):
+                in_quick = True
+                continue
+            if in_quick and stripped.startswith('## '):
+                break
+            if in_quick and (stripped.startswith('**Alex**:') or stripped.startswith('**Maya**:')):
+                dialogue = stripped.split(':', 1)[1].strip()
+                quoted = re.findall(r'["""]([^"""]{15,80})["""]', dialogue)
+                for q in quoted:
+                    lower_q = q.lower()
+                    if any(phrase in lower_q for phrase in [
+                        "we can", "you're", "i'm", "that's", "it's", "just ",
+                        "wait,", "hold on", "let me", "is this", "said it",
+                    ]):
+                        continue
+                    cap_words = sum(1 for w in q.split() if w[0].isupper())
+                    if cap_words >= 2 and q not in quick_hits:
+                        quick_hits.append(q)
+        return deep_dives[0], deep_dives, quick_hits
+
+    # --- Format 1d: ## Deep Dive N: Title ---
     dive_header = re.compile(r'##\s*Deep Dive\s*\d+(?:\s*\([^)]*\))?:\s*(.+)', re.IGNORECASE)
     for line in lines:
         m = dive_header.match(line.strip())

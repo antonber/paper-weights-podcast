@@ -10,11 +10,17 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
-      <title>Are you sure? Because I think X is actually Y</title>
-      <description>Today we're breaking down Are you sure? Because I think X is actually Y.. Alex explains the science, Maya asks where the money is. 1 papers that could change how you build.
+      <title>Decoupling Reasoning Proposals from Decisions</title>
+      <description>Today's episode dives deep into Decoupling Reasoning Proposals from Decisions, along with Cognitive Budget Allocation for Agents, The Reasoning Model Attack Surface (EXTENDED). Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
 Papers discussed:
-• [00:51] Are you sure? Because I think X is actually Y.</description>
+• [00:51] Decoupling Reasoning Proposals from Decisions — https://arxiv.org/abs/2602.12846v1
+• [02:18] Cognitive Budget Allocation for Agents — https://arxiv.org/abs/2602.12662v1
+• [03:44] The Reasoning Model Attack Surface (EXTENDED)
+• [06:20] Verifier-Free Reasoning Training
+• [08:04] Shorter Chains of Thought Without the Accuracy Hit
+• [09:39] The Diversity Illusion in Self-Play Training — https://arxiv.org/abs/2602.13103v1
+• [11:14] Web Agent Training at Scale — https://arxiv.org/abs/2602.12544v1</description>
       <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-16/2026-02-16-podcast.mp3</link>
       <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-16/2026-02-16-podcast.mp3</guid>
       <pubDate>Mon, 16 Feb 2026 09:00:00 -0600</pubDate>
