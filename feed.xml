@@ -10,6 +10,36 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>BFS-PO: Best-First Search for Large Reasoning Models</title>
+      <description>Today's episode dives deep into BFS-PO: Best-First Search for Large Reasoning Models, along with Precedent-Informed Reasoning: Mitigating Overthinking in Large Reasoning Models, Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens. Plus 10 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 17 papers, zero filler.
+
+Deep Dives:
+• [00:39] BFS-PO: Best-First Search for Large Reasoning Models — https://arxiv.org/abs/2602.14917
+• [01:49] Precedent-Informed Reasoning: Mitigating Overthinking in Large Reasoning Models — https://arxiv.org/abs/2602.14917
+• [03:00] Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens — https://arxiv.org/abs/2602.13517
+• [04:42] AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching — https://arxiv.org/abs/2602.13215
+• [06:00] Open Rubric System: Scaling RL with Pairwise Adaptive Rubrics — https://arxiv.org/abs/2602.14069
+• [07:50] OneLatent: Single-Token Compression for Visual Latent Reasoning — https://arxiv.org/abs/2602.13738
+• [10:04] Information Fidelity in Tool-Using LLM Agents: A Martingale Analysis of MCP — https://arxiv.org/abs/2602.13320
+
+Quick Hits:
+• [11:38] Speculative Decoding with a Speculative Vocabulary — https://arxiv.org/abs/2602.13836
+• GradMAP: Faster Layer Pruning with Gradient Metric and Projection Compensation — https://arxiv.org/abs/2602.14649
+• AllMem: A Memory-centric Recipe for Efficient Long-context Modeling — https://arxiv.org/abs/2602.13680
+• Elo-Evolve: A Co-evolutionary Framework for Language Model Alignment — https://arxiv.org/abs/2602.13575
+• Small Reward Models via Backward Inference — https://arxiv.org/abs/2602.13551
+• Measuring and Mitigating Post-hoc Rationalization in Reverse Chain-of-Thought — https://arxiv.org/abs/2602.14469
+• REMem: Reasoning with Episodic Memory in Language Agents — https://arxiv.org/abs/2602.13530
+• GUI-GENESIS: Automated Synthesis of Environments with Verifiable Rewards for GUI Agent Post-Training — https://arxiv.org/abs/2602.14093
+• REDSearcher: A Scalable Framework for Long-Horizon Search Agents — https://arxiv.org/abs/2602.14234
+• LogitsCoder: Efficient Chain-of-Thought Path Search via Logits Preference Decoding — https://arxiv.org/abs/2602.14054</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-17/2026-02-17-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-17/2026-02-17-podcast.mp3</guid>
+      <pubDate>Tue, 17 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-17/2026-02-17-podcast.mp3" length="12519063" type="audio/mpeg"/>
+      <ns0:duration>00:13:35</ns0:duration>
+    </item>
+    <item>
       <title>Decoupling Reasoning Proposals from Decisions</title>
       <description>Today's episode dives deep into Decoupling Reasoning Proposals from Decisions, along with Cognitive Budget Allocation for Agents, The Reasoning Model Attack Surface (EXTENDED). Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 7 papers, zero filler.
 
