@@ -10,6 +10,37 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>GLM-5: From Vibe Coding to Agentic Engineering</title>
+      <description>Today's episode dives deep into GLM-5: From Vibe Coding to Agentic Engineering, along with The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety, Discovering Implicit Large Language Model Alignment Objectives. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
+
+Deep Dives:
+• [01:08] GLM-5: From Vibe Coding to Agentic Engineering — https://arxiv.org/abs/2602.15763
+• [02:32] The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety — https://arxiv.org/abs/2602.15799
+• [04:35] Discovering Implicit Large Language Model Alignment Objectives — https://arxiv.org/abs/2602.15338
+• [06:30] Prescriptive Scaling Reveals the Evolution of Language Model Capabilities — https://arxiv.org/abs/2602.15338
+• [08:09] STAPO: Stabilizing RL for LLMs by Silencing Rare Spurious Tokens — https://arxiv.org/abs/2602.15620
+• [10:04] Fast KV Compaction via Attention Matching — https://arxiv.org/abs/2602.16284
+• [11:51] Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections — https://arxiv.org/abs/2602.15654
+
+Quick Hits:
+• [13:23] Operationalising the Superficial Alignment Hypothesis via Task Complexity — https://arxiv.org/abs/2602.15829
+• Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety — https://arxiv.org/abs/2602.16660
+• Unforgeable Watermarks for Language Models via Robust Signatures — https://arxiv.org/abs/2602.15323
+• MoE-Spec: Expert Budgeting for Efficient Speculative Decoding — https://arxiv.org/abs/2602.16052
+• ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns — https://arxiv.org/abs/2602.15521
+• CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing — https://arxiv.org/abs/2602.15823
+• Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents — https://arxiv.org/abs/2602.16699
+• HiPER: Hierarchical RL with Explicit Credit Assignment for LLM Agents — https://arxiv.org/abs/2602.16165
+• Team of Thoughts: Efficient Test-time Scaling via Orchestrated Tool Calling — https://arxiv.org/abs/2602.16485
+• Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory — https://arxiv.org/abs/2602.15313
+• Retrieval Collapses When AI Pollutes the Web — https://arxiv.org/abs/2602.16136</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-19/2026-02-19-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-19/2026-02-19-podcast.mp3</guid>
+      <pubDate>Thu, 19 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-19/2026-02-19-podcast.mp3" length="14182832" type="audio/mpeg"/>
+      <ns0:duration>00:15:25</ns0:duration>
+    </item>
+    <item>
       <title>ResearchGym: Evaluating Language Model Agents on Real-World AI Research</title>
       <description>Today's episode dives deep into ResearchGym: Evaluating Language Model Agents on Real-World AI Research, along with ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns, Recursive Concept Evolution: Compositional Reasoning via Dynamic Representation Geometry. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
 
