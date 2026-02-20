@@ -10,6 +10,37 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>Training Large Reasoning Models Efficiently via Progressive Thought Encoding</title>
+      <description>Today's episode dives deep into Training Large Reasoning Models Efficiently via Progressive Thought Encoding, along with Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents, MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
+
+Deep Dives:
+• [00:51] Training Large Reasoning Models Efficiently via Progressive Thought Encoding — https://arxiv.org/abs/2602.16839
+• [02:12] Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents — https://arxiv.org/abs/2602.16943
+• [03:47] MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks — https://arxiv.org/abs/2602.16313
+• [05:30] Fail-Closed Alignment for Large Language Models — https://arxiv.org/abs/2602.16839
+• [07:28] Phase-Aware Mixture of Experts for Agentic Reinforcement Learning — https://arxiv.org/abs/2602.17038
+• [09:33] 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy — https://arxiv.org/abs/2602.17363
+• [11:31] NeST: Neuron Selective Tuning for LLM Safety — https://arxiv.org/abs/2602.16835
+
+Quick Hits:
+• [13:21] Narrow fine-tuning erodes safety alignment in vision-language agents — https://arxiv.org/abs/2602.16943
+• Align Once, Benefit Multilingually — https://arxiv.org/abs/2602.16660
+• AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks — https://arxiv.org/abs/2602.16901
+• Automating Agent Hijacking via Structural Template Injection — https://arxiv.org/abs/2602.16958
+• OpenSage: Self-programming Agent Generation Engine — https://arxiv.org/abs/2602.16891
+• Learning Personalized Agents from Human Feedback — https://arxiv.org/abs/2602.16173
+• Towards a Science of AI Agent Reliability — https://arxiv.org/abs/2602.16666
+• Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability — https://arxiv.org/abs/2602.17544
+• Better Think Thrice: Learning to Reason Causally with Double Counterfactual Consistency — https://arxiv.org/abs/2602.16787
+• References Improve LLM Alignment in Non-Verifiable Domains — https://arxiv.org/abs/2602.16802
+• Arcee Trinity Large Technical Report — https://arxiv.org/abs/2602.17445</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-20/2026-02-20-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-20/2026-02-20-podcast.mp3</guid>
+      <pubDate>Fri, 20 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-20/2026-02-20-podcast.mp3" length="16085207" type="audio/mpeg"/>
+      <ns0:duration>00:17:31</ns0:duration>
+    </item>
+    <item>
       <title>GLM-5: From Vibe Coding to Agentic Engineering</title>
       <description>Today's episode dives deep into GLM-5: From Vibe Coding to Agentic Engineering, along with The Geometry of Alignment Collapse: When Fine-Tuning Breaks Safety, Discovering Implicit Large Language Model Alignment Objectives. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
 
