@@ -10,6 +10,18 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>Fail-Closed Alignment</title>
+      <description>Today we're breaking down Fail-Closed Alignment. Alex explains the science, Maya asks where the money is. 1 papers that could change how you build.
+
+Papers discussed:
+• [00:38] Fail-Closed Alignment — https://arxiv.org/abs/2602.16977</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-21/2026-02-21-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-21/2026-02-21-podcast.mp3</guid>
+      <pubDate>Sat, 21 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-21/2026-02-21-podcast.mp3" length="13084798" type="audio/mpeg"/>
+      <ns0:duration>00:14:13</ns0:duration>
+    </item>
+    <item>
       <title>Training Large Reasoning Models Efficiently via Progressive Thought Encoding</title>
       <description>Today's episode dives deep into Training Large Reasoning Models Efficiently via Progressive Thought Encoding, along with Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents, MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks. Plus 11 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 18 papers, zero filler.
 
