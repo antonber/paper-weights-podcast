@@ -10,6 +10,36 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>Gradient Regularization Prevents Reward Hacking in RLHF and Verifiable Rewards</title>
+      <description>Today's episode dives deep into Gradient Regularization Prevents Reward Hacking in RLHF and Verifiable Rewards, along with Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory, Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning. Plus 10 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 17 papers, zero filler.
+
+Deep Dives:
+• [01:01] Gradient Regularization Prevents Reward Hacking in RLHF and Verifiable Rewards — https://arxiv.org/abs/2602.18037
+• [03:05] Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory — https://arxiv.org/abs/2602.18297
+• [05:16] Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning — https://arxiv.org/abs/2602.18232
+• [07:11] Turbo Connection: Reasoning as Information Flow from Higher to Lower Layers — https://arxiv.org/abs/2602.17993
+• [10:01] Neurosymbolic Language Reasoning as Satisfiability Modulo Theory — https://arxiv.org/abs/2602.18095
+• [12:05] Decoding as Optimisation on the Probability Simplex — https://arxiv.org/abs/2602.18292
+• [14:00] The Token Games: Evaluating LLM Reasoning with Puzzle Duels — https://arxiv.org/abs/2602.17831
+
+Quick Hits:
+• [15:56] SPQ: An Ensemble Technique for LLM Compression — https://arxiv.org/abs/2602.18420
+• Cut Less, Fold More: Model Compression via Projection Geometry — https://arxiv.org/abs/2602.18116
+• PTQ Baselines for Reasoning LLMs on Ascend NPU — https://arxiv.org/abs/2602.17693
+• Decomposing Retrieval Failures in RAG for Financial QA — https://arxiv.org/abs/2602.17981
+• RVR: Retrieve-Verify-Retrieve for Comprehensive QA — https://arxiv.org/abs/2602.18425
+• WorkflowPerturb: Calibrated Stress Tests for Multi-Agent Workflows — https://arxiv.org/abs/2602.17990
+• Agentic Adversarial QA for Domain-Specific LLMs — https://arxiv.org/abs/2602.18137
+• On the "Induction Bias" in Sequence Models — https://arxiv.org/abs/2602.18333
+• Improving Sampling for Masked Diffusion Models via Information Gain — https://arxiv.org/abs/2602.18297
+• Detecting Contextual Hallucinations with Frequency-Aware Attention — https://arxiv.org/abs/2602.18145</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-23/2026-02-23-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-23/2026-02-23-podcast.mp3</guid>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-23/2026-02-23-podcast.mp3" length="16438027" type="audio/mpeg"/>
+      <ns0:duration>00:17:52</ns0:duration>
+    </item>
+    <item>
       <title>Fail-Closed Alignment</title>
       <description>Today we're breaking down Fail-Closed Alignment. Alex explains the science, Maya asks where the money is. 1 papers that could change how you build.
 
