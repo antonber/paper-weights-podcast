@@ -10,6 +10,36 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>LAD: Learning Advantage Distribution for Reasoning</title>
+      <description>Today's episode dives deep into LAD: Learning Advantage Distribution for Reasoning, along with ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models, UMA: Unified Memory Agent for Long-Context Reasoning. Plus 10 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 17 papers, zero filler.
+
+Deep Dives:
+• [00:37] LAD: Learning Advantage Distribution for Reasoning — https://arxiv.org/abs/2602.20132
+• [02:08] ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models — https://arxiv.org/abs/2602.20117
+• [03:23] UMA: Unified Memory Agent for Long-Context Reasoning — https://arxiv.org/abs/2602.18493
+• [04:38] Spilled Energy in LLMs: Training-Free Hallucination Detection — https://arxiv.org/abs/2602.18671
+• [06:09] Non-Interfering Weight Fields (NIWF): Zero Forgetting for LLMs — https://arxiv.org/abs/2602.18628
+• [08:09] Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks — https://arxiv.org/abs/2602.20156
+• [09:55] GIST: Targeted Data Selection for Instruction Tuning — https://arxiv.org/abs/2602.18584
+
+Quick Hits:
+• [11:10] Selective Chain-of-Thought for Medical QA — https://arxiv.org/abs/2602.20130
+• Adaptation to Intrinsic Dependence in Diffusion Language Models — https://arxiv.org/abs/2602.20126
+• Edge Alignment: General Alignment Has Hit a Ceiling — https://arxiv.org/abs/2602.20042
+• When Do LLM Preferences Predict Downstream Behavior? — https://arxiv.org/abs/2602.18971
+• How Retrieved Context Shapes Internal Representations in RAG — https://arxiv.org/abs/2602.20091
+• PR2: Personalized Retrieval-Augmented Reasoning — https://arxiv.org/abs/2602.19317
+• Pyramid MoA: Cost-Optimized Anytime Inference — https://arxiv.org/abs/2602.19509
+• DREAM: Deep Research Evaluation with Agentic Metrics — https://arxiv.org/abs/2602.18940
+• AdaEvolve: Adaptive LLM-Driven Zeroth-Order Optimization — https://arxiv.org/abs/2602.20133
+• NanoKnow: How to Know What Your Language Model Knows — https://arxiv.org/abs/2602.20122</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-24/2026-02-24-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-24/2026-02-24-podcast.mp3</guid>
+      <pubDate>Tue, 24 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-24/2026-02-24-podcast.mp3" length="12113259" type="audio/mpeg"/>
+      <ns0:duration>00:13:10</ns0:duration>
+    </item>
+    <item>
       <title>Gradient Regularization Prevents Reward Hacking in RLHF and Verifiable Rewards</title>
       <description>Today's episode dives deep into Gradient Regularization Prevents Reward Hacking in RLHF and Verifiable Rewards, along with Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory, Thinking by Subtraction: Confidence-Driven Contrastive Decoding for LLM Reasoning. Plus 10 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 17 papers, zero filler.
 
