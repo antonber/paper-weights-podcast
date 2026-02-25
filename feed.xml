@@ -10,6 +10,21 @@
     <ns0:category text="Technology"/>
     <ns0:image href="https://github.com/antonber/paper-weights-podcast/releases/download/assets/cover-art.png"/>
     <item>
+      <title>Look what Gemini 3 can do</title>
+      <description>Today's episode dives deep into Look what Gemini 3 can do., along with The Art of Efficient Reasoning., Overton Pluralism. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 4 papers, zero filler.
+
+Papers discussed:
+• [00:41] Look what Gemini 3 can do.
+• [02:05] The Art of Efficient Reasoning.
+• [03:50] Overton Pluralism
+• [05:28] Why Pass@k Optimization Can Degrade Pass@1. — https://arxiv.org/abs/2602.21189</description>
+      <link>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-25/2026-02-25-podcast.mp3</link>
+      <guid>https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-25/2026-02-25-podcast.mp3</guid>
+      <pubDate>Wed, 25 Feb 2026 09:00:00 -0600</pubDate>
+      <enclosure url="https://github.com/antonber/paper-weights-podcast/releases/download/2026-02-25/2026-02-25-podcast.mp3" length="12914218" type="audio/mpeg"/>
+      <ns0:duration>00:14:05</ns0:duration>
+    </item>
+    <item>
       <title>LAD: Learning Advantage Distribution for Reasoning</title>
       <description>Today's episode dives deep into LAD: Learning Advantage Distribution for Reasoning, along with ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models, UMA: Unified Memory Agent for Long-Context Reasoning. Plus 10 quick hits covering the rest of what dropped on arXiv. Alex breaks down the technical details while Maya asks the hard questions about what actually matters for building products and making money. 17 papers, zero filler.
 
